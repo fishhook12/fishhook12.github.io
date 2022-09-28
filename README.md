@@ -13,7 +13,7 @@
 
 ![Elevator_Image_Monticone2](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator2.jpg?raw=true)
 
-![Elevator_Gif_Monticone](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator.gif.gif)
+![Elevator_Gif_Monticone](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator.gif.gif?raw=true)
 
 ### Getting B:
   The most common uses for the elevator are choosing a floor and the open/close door buttons. This elevator makes those easy by the floor buttons being in order from the lowest floor button on the bottom to the highest floor button on the top. But the open/close door buttons are slightly confusing with there being two doors and two sets of buttons, and even with the slightly different symbols is not noticeable which set controls which door initially. The rare cases are the alarm and call buttons, which are made easy by their low placement to be accessible to everyone.
