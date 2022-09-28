@@ -1,6 +1,6 @@
 
 ### Links
-[Presentation page](https://fishhook12.github.io/p1.caleb.monticone) https://fishhook12.github.io/p1.caleb.monticone
+[Presentation page](https://fishhook12.github.io/p1.caleb.monticone) https://fishhook12.github.io/p1.caleb.monticone/
 
 [GitHub repository](https://github.com/fishhook12/p1.caleb.monticone) https://github.com/fishhook12/p1.caleb.monticone
 
