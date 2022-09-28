@@ -4,7 +4,7 @@
 
 [GitHub repository](https://github.com/fishhook12/p1.caleb.monticone) https://github.com/fishhook12/p1.caleb.monticone
 
-[Demo](https://github.com/fishhook12/p1.caleb.monticone/blob/main/Elevator.zip) https://github.com/fishhook12/p1.caleb.monticone/blob/main/Elevator.zip
+[Demo](https://github.com/fishhook12/p1.caleb.monticone/blob/main/p1_caleb_monticone.zip) https://github.com/fishhook12/p1.caleb.monticone/blob/main/p1_caleb_monticone.zip
 
 ### Getting C:
   The elevator I choose is good because the buttons match the floors with the lowest on the bottom, and the highest floor on the top. It also has good features with brail, bright lights to indicate a button is pressed, and the placement of buttons such as emergency buttons low to ensure they can be reached by everyone. The bad is that at the time one of the buttons to close the door was missing, also the V floor is confusing because it is right above the G floor which would be ground, and right above the V floor is 1 so unclear what this floor V means. Also, this elevator has doors in the front and back so there are two sets of open/close door buttons with slightly different symbols which is good but unclear which ones the control without trial and error.
