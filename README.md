@@ -22,3 +22,6 @@ The common sequence of actions for the elevator is to press the up or down butto
 Some suggestions to improve this design are to get rid of the V floor and start V at 1. This would make it clearer as to what that floor is and less confusion about where that goes.
 
 
+![Elevator_Image_Monticonesketch](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator.sketch.jpg?raw=true)
+
+
