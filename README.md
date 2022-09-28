@@ -11,7 +11,7 @@
 
 ![Elevator_Image_Monticone](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator1.jpg)
 
-![Elevator_Image_Monticone](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator2.jpg)
+![Elevator_Image_Monticone](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator2.jpg?raw=true)
 
 ![Elevator_Gif_Monticone](https://github.com/fishhook12/p1.caleb.monticone/blob/main/elevator.gif.gif)
 
